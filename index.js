@@ -1,1 +1,1 @@
-// Write your solution here!
+const  appeend= ; , prepend, removeLast and removeFirst
