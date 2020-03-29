@@ -1,5 +1,5 @@
-const  appeend= ["Milo", "Otis", "Garfield"];
-const  appeend= ["Milo", "Otis", "Garfield"]; 
-const  appeend= ["Milo", "Otis", "Garfield"]; 
-const  appeend= ["Milo", "Otis", "Garfield"]; 
-, prepend, removeLast and removeFirst
+const  append= ["Milo", "Otis", "Garfield"];
+const  prepend= ["Milo", "Otis", "Garfield"]; 
+const  removeLast= ["Milo", "Otis", "Garfield"]; 
+const  removeFirst= ["Milo", "Otis", "Garfield"]; 
+append.
